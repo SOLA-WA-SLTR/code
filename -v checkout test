@@ -1,0 +1,25 @@
+On: services:
+  origin	git@github.com:SOLA-WA-SLTR/services (fetch)
+  origin	git@github.com:SOLA-WA-SLTR/services (push)
+  upstream	git@github.com:SOLA-WA-NIGERIA/services (fetch)
+  upstream	git@github.com:SOLA-WA-NIGERIA/services (push)
+On: common/common:
+  origin	git@github.com:SOLA-WA-SLTR/common (fetch)
+  origin	git@github.com:SOLA-WA-SLTR/common (push)
+  upstream	git@github.com:SOLA-WA-NIGERIA/common (fetch)
+  upstream	git@github.com:SOLA-WA-NIGERIA/common (push)
+On: clients:
+  origin	git@github.com:SOLA-WA-SLTR/clients (fetch)
+  origin	git@github.com:SOLA-WA-SLTR/clients (push)
+  upstream	git@github.com:SOLA-WA-NIGERIA/clients (fetch)
+  upstream	git@github.com:SOLA-WA-NIGERIA/clients (push)
+On: (code):
+  origin	git@github.com:SOLA-WA-SLTR/code.git (fetch)
+  origin	git@github.com:SOLA-WA-SLTR/code.git (push)
+  upstream	git@github.com:SOLA-WA-NIGERIA/code (fetch)
+  upstream	git@github.com:SOLA-WA-NIGERIA/code (push)
+On: common/messaging:
+  origin	git@github.com:SOLA-WA-SLTR/messaging (fetch)
+  origin	git@github.com:SOLA-WA-SLTR/messaging (push)
+  upstream	git@github.com:SOLA-WA-NIGERIA/messaging (fetch)
+  upstream	git@github.com:SOLA-WA-NIGERIA/messaging (push)
